@@ -10,7 +10,7 @@ Meu nome é Felipe, sou Desenvolvedor Front-end e Back-end há poucos meses, me 
 
 Estou em busca dá minha primeira oportunidade para mostrar realmente minha habilidade, tanto as Soft Skill como também no Desenvolvimento de Projetos.* *#alavancarempresas**
 
-- 👩‍💼 Atuo como Dev interto em minha empresa atual, Analytcs Logistics e CAD Engineering **BRAUNA SISTEMAS DE ARMAZENAGEM 💙**
-- 👩‍🎓 Graduação em Logística, na **FATEC**
+- 🧑‍💼 Atuo como Dev interto em minha empresa atual, Analytcs Logistics e CAD Engineering **BRAUNA SISTEMAS DE ARMAZENAGEM 💙**
+- 🧑‍🎓 Graduação em Logística, na **FATEC**
 - ⚛ Techs: Javascript, Nunjucks, React.js, React Native, Node.js...
 - 📚 Estudando através do bootcamp da **Rocketseat**, do curso Fundamentos do Javascript  com o **Erick Wendel**, Desenvolvimento Web com **freeCodeCamp**...
