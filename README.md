@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeschiavon/)](https://www.linkedin.com/in/felipeschiavon/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipschiavon@gmail.com)](mailto:felipschiavon@gmail.com)
 
+<img src="https://visitor-badge.glitch.me/badge?page_id=steniowagner.visitor-badge">
+
 ## Heeey, tudo bem?  👋
 
 Meu nome é Felipe, sou Desenvolvedor Front-end e Back-end há poucos meses, me dedico e estudo diariamente com muito foco e empenho para entender um pouco mais das tecnologias do meu dia-a-dia e fortalecer as minhas bases.
