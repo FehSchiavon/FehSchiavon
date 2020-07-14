@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipeschiavon/)](https://www.linkedin.com/in/felipeschiavon/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipschiavon@gmail.com)](mailto:felipschiavon@gmail.com)
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=steniowagner.visitor-badge">
+<img src="https://visitor-badge.glitch.me/badge?page_id=FehSchiavon.visitor-badge">
 
 ## Heeey, tudo bem?  👋
 
